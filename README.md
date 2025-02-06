@@ -1,7 +1,3 @@
-Here's a mathematical explanation of RSA that you can include in your `README.md` file on GitHub for your Python code.
-
----
-
 # RSA Algorithm - Mathematical Explanation
 
 The **Rivest-Shamir-Adleman (RSA)** algorithm is a widely used public-key cryptographic system that enables secure data transmission. It is based on the mathematical properties of prime numbers and modular arithmetic.
